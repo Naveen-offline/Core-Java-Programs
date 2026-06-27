@@ -1,89 +1,23 @@
-# ☕ Core Java Programs
+# Core Java Programs
 
-This repository contains **Core Java programs** covering fundamental programming concepts, problem-solving techniques, and mini projects.
+A comprehensive collection of **64+ Core Java programs** covering fundamental programming concepts, problem-solving techniques, pattern programs, array operations, mathematical algorithms, and mini projects.
 
-## 📚 Topics Covered
+## Overview
 
-### 🔢 Number Programs
+This repository demonstrates practical implementation of Core Java concepts including:
 
-* Armstrong Number
-* Prime Number
-* Perfect Number
-* Palindrome Number
-* Magic Number
-* Unique Number
-* Co-Prime Number
-* LCM
-* Sum of Digits
-* Reverse Number
-
-### 📦 Array Programs
-
-* Duplicate Elements
-* Non-Duplicate Elements
-* Reverse Array
-* Middle Element
-* Second Largest Element
-* Maximum & Minimum Elements
-* Sum of Positive Numbers
-* Student Marks Analysis
-* Store Price Calculation
-
-### ⭐ Pattern Programs
-
-* Pyramid Pattern
-* Diamond Pattern
-* Left Triangle Pattern
-* Right Triangle Pattern
-* Inverted Triangle Pattern
-* Square Pattern
-* Sandglass Pattern
-* X Pattern
-
-### 🔄 Loop Programs
-
-* Odd Numbers Using For Loop
-* Odd Numbers Using While Loop
-* Continue Statement Examples
-* Nested Loop Break
-* Switch Case Programs
-
-### 🧮 Mathematical Programs
-
-* Factorial
-* Fibonacci Series
-* Sum of Even and Odd Numbers
-* Square Root
-* Cube of Numbers
-
-### 🔤 String Programs
-
-* String Palindrome
-
-### 🚍 Mini Projects
-
-* Bank Management System
-* Bus Booking System
-* Taxi Fare Calculator
-* Movie Rating System
-* Student Marks System
-
----
-
-## 🛠 Technologies Used
-
-* Java
-* Scanner Class
-* Arrays
-* Loops
-* Methods
-* Recursion
+* Variables and Data Types
 * Conditional Statements
+* Loops and Iteration
+* Arrays
+* Methods and Recursion
 * Pattern Programming
+* Mathematical Algorithms
+* String Manipulation
+* Problem Solving
+* Mini Projects
 
----
-
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Core-Java-Programs/
@@ -100,35 +34,87 @@ Core-Java-Programs/
 └── 10_Mathematical_Programs
 ```
 
----
+## Key Topics Covered
 
-## 🎯 Learning Outcomes
+### Number Programs
 
-* Understanding Core Java concepts
-* Problem-solving using Java
-* Working with arrays and strings
-* Implementing mathematical algorithms
-* Developing mini projects
-* Practicing coding interview questions
+* Armstrong Number
+* Prime Number
+* Perfect Number
+* Palindrome Number
+* Magic Number
+* Unique Number
+* Co-Prime Number
+* LCM and GCD
+* Sum of Digits
+* Reverse Number
 
----
+### Array Programs
 
-## 🚀 Future Improvements
+* Duplicate Elements
+* Non-Duplicate Elements
+* Array Reversal
+* Maximum and Minimum Elements
+* Second Largest Element
+* Positive Number Sum
+* Student Marks Analysis
 
-* Object-Oriented Programming examples
-* Collection Framework programs
-* Exception Handling programs
-* File Handling programs
-* JDBC projects
+### Pattern Programs
+
+* Pyramid Pattern
+* Diamond Pattern
+* Triangle Patterns
+* Square Pattern
+* Sandglass Pattern
+* X Pattern
+
+### Recursion Programs
+
+* Fibonacci Series
+* Factorial Using Recursion
+
+### Mini Projects
+
+* Bank Management System
+* Bus Booking System
+* Taxi Fare Calculator
+* Movie Rating System
+
+## Technologies Used
+
+* Java
+* Scanner Class
+* Arrays
+* Methods
+* Recursion
+* Conditional Statements
+* Loops
+* Pattern Programming
+
+## Learning Outcomes
+
+This repository helped in developing:
+
+* Problem-solving skills
+* Algorithmic thinking
+* Java programming fundamentals
+* Logical reasoning abilities
+* Basic software development practices
+
+## Future Enhancements
+
+* Object-Oriented Programming Concepts
+* Exception Handling
+* Collection Framework
+* File Handling
+* JDBC Connectivity
 * Data Structures and Algorithms
 
----
-
-## 👨‍💻 Author
+## Author
 
 **Naveen N**
-B.E. Computer Science and Engineering
+Bachelor of Engineering in Computer Science and Engineering
 
----
+## License
 
-⭐ If you find these programs useful, feel free to star this repository.
+This project is created for educational and learning purposes.
