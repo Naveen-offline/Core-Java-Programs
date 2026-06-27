@@ -1,6 +1,6 @@
 # Core Java Programs
 
-A comprehensive collection of **64+ Core Java programs** covering fundamental programming concepts, problem-solving techniques, pattern programs, array operations, mathematical algorithms, and mini projects.
+A comprehensive collection of **Core Java programs** covering fundamental programming concepts, problem-solving techniques, pattern programs, array operations, mathematical algorithms, and mini projects.
 
 ## Overview
 
