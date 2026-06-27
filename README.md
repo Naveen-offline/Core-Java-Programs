@@ -1,6 +1,6 @@
 # ☕ Core Java Programs
 
-This repository contains **64+ Core Java programs** covering fundamental programming concepts, problem-solving techniques, and mini projects.
+This repository contains **Core Java programs** covering fundamental programming concepts, problem-solving techniques, and mini projects.
 
 ## 📚 Topics Covered
 
